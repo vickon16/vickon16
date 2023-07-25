@@ -1,14 +1,7 @@
 - 👋 Hi, I’m @vickon16, Nkachukwu Victor Cyril
-- 👀 Front-End Developer with 4 years of proven
-leadership and meaningfully contributions to teams
-of varying size and scope. With my results-driven
-mentality, I collaborated with my team in seeking,
-learning, and teaching new, efficient technologies
-to make aggressive deadlines consistently
-achievable.
-- 💞️ I am passionate about going the extra mile to
-ensure the customer is unquestionably satisfied
-with the product or service provided.
+- 👀 I am a Front-end React/Next.Js developer, With 6 years of experience, I am proficient with React.JS library, HTML, CSS, and JavaScript. Expertise in creating interactive user interfaces, developing complex single-page applications, and integrating web-based APIs.  I am detail-oriented, constantly learning new technologies, and committed to producing high-quality web applications that meet client requirements.
+- 💞️ I am passionate about going the extra mile to ensure the customer is unquestionably satisfied with the product or service provided.
+- 
 - 📫 How to reach me 
 - Nkachukwuvictor2016@gmail.com
 - +2349136376386, +2349056505845
